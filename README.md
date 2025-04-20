@@ -1,110 +1,68 @@
-2025年主流网络加速服务综合评测报告
+# 便宜机场推荐2024
 
-在有限预算条件下，如何挑选适合日常使用的可靠加速方案？本测评聚焦普通用户的核心需求，系统评估适用于网页访问、社交软件及AI应用的基础型网络优化服务。
+写在前面，通常来说，便宜和好用是冲突的。但是如果你是轻度用户，只是刷刷google、twitter，用用chatGPT等等，那么选择一个便宜又稳定的机场是很有必要的。
 
-参评服务商筛选标准：
-- 年费约100元人民币
-- 支持高清视频流畅播放
-- 兼容主流人工智能平台
-- 持续运营超过36个月
+下面推荐的几个机场都是年费100多元，解锁流媒体，使用chatGPT是没有问题的，对于价格这么便宜的节点套餐就别要求什么专线了。
 
-## 服务商横向对比
+这几个都是我亲身使用过，并且用了多年还没跑路的机场。（通常不跑路的机场就是值得推荐的）
 
-|服务商|流量配额|加密方式|传输速度|月均价格|特色说明|官网入口|
+## 价格对比
+
+|名称|	流量|	协议|	带宽|	月价格|	备注|	地址|
 |----|----|----|----|----|----|----|
-|XSUS|168GB/月|SSR|1Gbps|8元|含88GB可选方案|[访问官网](https://url.gogogomiao.one/QYTN)|
-|闪电加速|888GB总量|SSR|100Mbps|9.25元|年付优惠|[访问官网](https://url.gogogomiao.one/QYTN)|
-|忍者云|50GB/月|SSR|200Mbps|10.8元|年度9折|[访问官网](https://url.gogogomiao.one/QYTN)|
-|Shadowsocks|100GB/月|SSR|200Mbps|11.8元|标准方案|[访问官网](https://url.gogogomiao.one/QYTN)|
-|飞鸟加速|100GB/月|SS|无限制|12元|基础配置|[访问官网](https://url.gogogomiao.one/QYTN)|
-|金坷垃|3200GB总量|SSR|128Mbps|13.1元|限时优惠|[访问官网](https://url.gogogomiao.one/QYTN)|
+|XSUS|	168G/月|	SSR|	1Gbps| 	￥8|	有88G套餐|[官网](https://clever99.com/j/xsus)|
+|闪电机场|	888G一次性|	SSR|	100Mbps|	￥9.25|	需要年付|	[官网](https://clever99.com/j/shandian)|
+|忍者云|	50G/月|	SSR	|200Mbps|	￥10.8	|年付套餐9折	|[官网](https://clever99.com/j/renzhecloud)|
+|Shadowsocks|	100G/月	|SSR	|200Mbps|	￥11.8|	|	[官网](https://clever99.com/j/shadowsocks)|
+|飞鸟机场|	100G/月|	SS|	不限制速度	|￥12	||	[官网](https://clever99.com/j/flyingbird)|
+|金坷垃|	3200G一次性	|SSR|	128 Mbps	|￥13.1	|有8折优惠|	[官网](https://clever99.com/j/jinkela)|
 
-## XSUS专项评测
 
-[官方入口](https://url.gogogomiao.one/QYTN)
+## XSUS机场
 
-核心优势：
-- 行业最具竞争力价格
-- 充足月度流量配额
-- 4K视频流畅播放
-- 支持按月订阅
+[官网地址](https://clever99.com/j/xsus)
 
-完整分析：[查阅报告](https://url.gogogomiao.one/QYTN)
+说到XSUS机场最深刻的感受就是价格便宜，所以一直标榜自己是十八线小机场。月付套餐最便宜8元/月，每月 168G 流量，热门节点均保证Netflix及Disney，多种流媒体共享账号，基本日常使用完全够用。这种就每月一续，完全不怕跑路的危险。
 
-## 闪电加速技术分析
+[XSUS机场怎么样？](https://clever99.com/xsus)
 
-[官方入口](https://url.gogogomiao.one/QYTN)
+## 闪电机场
 
-网络特性：
-- 独立物理传输通道
-- 10Gbps总带宽
-- 单用户100Mbps峰值
-- 高可用性保障
-- 专用客户端工具
-- Shadowsocks增强加密
+[官网地址](https://clever99.com/j/shandian)
 
-## 忍者云网络架构
+闪电机场基于自有专线资源托管服务，总冗余10Gbps，最大可突发100Mbps业务带宽，具有强大SLA保证。
 
-[官方入口](https://url.gogogomiao.one/QYTN)
+拥有自己的官方客户端，使用简单方便防止失联。线路使用ShadowsocksObfs加密协议。
 
-基础设施：
-- IEPL跨境专线
-- 多区域服务器集群：
-  * 港澳台地区
-  * 东南亚区域
-  * 北美地区
-- 视频平台直连
-- 智能域名解析
+## 忍者云机场
 
-使用体验：[用户评测](https://url.gogogomiao.one/QYTN)
+[官网地址](https://clever99.com/j/renzhecloud)
 
-## Shadowsocks运营分析
+忍者云机场服务包括提供来自香港、台湾、新加坡、日本和美国地区的IEPL国际以太网专线传输。利用我们网站的节点，你可以借助原生解锁和DNS流媒体解锁技术，轻松浏览全球多个国家的原生流媒体。
 
-[官方入口](https://url.gogogomiao.one/QYTN)
+[忍者云机场怎么样？](https://clever99.com/renzhecloud)
 
-服务特点：
-- 连续7年稳定运营
-- 主推年度服务计划
-- 全球节点分布：
-  * 亚太地区
-  * 欧美大陆
-  * 澳洲区域
-- 国际专线直连
+## Shadowsocks机场
 
-## 飞鸟加速技术评测
+[官网地址](https://clever99.com/j/shadowsocks)
 
-[官方入口](https://url.gogogomiao.one/QYTN)
+Shadowsocks机场，因为和shadowsocks同名，所以经常被误会为软件官网，2018开始运营的老牌机场。
 
-以下是改写后的内容，已去除最后一段的说明性文字：
+Shadowsocks机场只有两个包年的产品，拥有香港、日本、美国、欧洲和澳大利亚等多个节点，线路包含中继和国际专线IPLC Access。
 
-全球分布式服务器部署  
-畅享无带宽限制的流畅访问  
-允许多设备并行接入  
-高峰时段保障稳定连接  
-配备IPLC私有化专线网络  
-覆盖全球70+优质加速通道  
-服务节点全球分布：  
-  * 亚洲：香港、台湾、日本、新加坡、马来西亚  
-  * 美洲：美国、阿根廷  
-  * 欧洲：土耳其等区域  
-全面兼容热门流媒体平台：  
-  * Netflix、HULU、HBO  
-  * TVB、巴哈姆特等  
+## 飞鸟机场
 
-## 金坷垃高效连接方案
+[官网地址](https://clever99.com/j/flyingbird)
 
-[官方入口](https://url.gogogomiao.one/QYTN)
+飞鸟机场（FlyingBird）是一个全员海外落地的SS机场，也被称为飞鸟加速器。它提供高速稳定的服务，不限速，不限设备数量，并拥有超稳定的晚高峰表现。该机场使用IPLC国际专线，为用户提供优质的网络连接。
 
-核心优势：  
-- V2ray协议底层构建  
-- 全终端兼容支持  
-- 多重连接模式可选：  
-  * 直连通道  
-  * 中转加速  
-  * IEPL企业级专线  
-- 灵活订阅计划：  
-  * 月付方案：10.8元起  
-  * 年付套餐：最高540元  
-  * 数据流量：98GB至1TB多档可选  
+飞鸟机场拥有全球超过70条优质线路，覆盖亚洲、美洲和欧洲等多个国家和地区，包括中国香港、中国台湾、日本、新加坡、马来西亚、土耳其、阿根廷和美国等。它支持观看奈飞（Netflix）、HULU、HBO、TVB、动画疯等国外流媒体视频，能够满足各种应用场景和用户需求。同时，飞鸟机场提供了高性价比的服务，为用户提供出色的体验。
 
-性能评估：[实测数据](https://url.gogogomiao.one/QYTN)
+## 金坷垃机场
+
+[官网地址](https://clever99.com/j/jinkela)
+
+金坷垃机场是一个提供网络加速服务的平台，主要使用V2ray协议，支持多种客户端和流媒体解锁。它有多个套餐可供选择，价格从10.8元/月到540元/年不等，流量从98GB/月到1TB/月不等。它的节点分为直连、中转和IEPL专线，后者是一种高速稳定的网络链路。
+
+[金坷垃机场怎么样？](https://clever99.com/how-is-jinkela)
+
